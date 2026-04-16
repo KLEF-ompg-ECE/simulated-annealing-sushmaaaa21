@@ -1,7 +1,7 @@
 # Assignment 1 — Simulated Annealing: Exam Timetable Scheduling
 ## Observation Report
 
-**Student Name  :** K/Sushma Bhavani
+**Student Name  :** K.Sushma Bhavani
 **Student ID    :** 2310040112
 **Date Submitted:** 21/03/2026  
 
